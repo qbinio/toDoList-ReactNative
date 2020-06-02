@@ -1,11 +1,11 @@
-import { combineReducers } from 'redux';
+import { combineReducers } from "redux";
 
-import example, { IExampleReducer } from './example';
+import example, { IExampleReducer } from "./example";
 
 export default combineReducers({
-    example
+  example,
 });
 
 export interface IState {
-    example: IExampleReducer;
+  example: IExampleReducer;
 }

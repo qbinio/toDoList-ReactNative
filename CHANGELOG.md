@@ -1,15 +1,30 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+### Create Project
 
-## [1.0.0] - 2020-02-25
+## [1.0.0] - 2020-03-04
 
-### Changes
-
-    - 
+- Initial app config
 
 ### Added
 
-    - Initial app config
+## [1.2.0] - 2020-03-14
+
+- Navigation
+- Reducers
+- Assets icon
+
+### Added
+
+## [1.3.0] - 2020-03-18
+
+- About Screen
+- Home Screen
+
+### Added
+
+## [1.3.0] - 2020-03-25
+
+- TodoList Screen
